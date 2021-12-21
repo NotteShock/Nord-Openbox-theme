@@ -1,6 +1,6 @@
 # OpenboxSur
 
-A openbox theme with macOS Big Sur style to combine with GTK+, Plasma and Kvantum WhiteSur theme.
+A Openbox theme with macOS Big Sur style to combine with GTK+, Plasma and Kvantum WhiteSur theme.
 
 ## Screenshots
 
