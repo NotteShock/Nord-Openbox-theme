@@ -1,6 +1,6 @@
-# Nord Openbox theme
+# OpenboxSur
 
-A openbox theme with Nord color palette to combine with GTK+, Plasma and Kvantum Nordic theme.
+A openbox theme with macOS Big Sur style to combine with GTK+, Plasma and Kvantum WhiteSur theme.
 
 ## Screenshots
 
