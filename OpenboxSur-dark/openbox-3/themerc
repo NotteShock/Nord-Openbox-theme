@@ -1,0 +1,140 @@
+# OpenboxSur theme for Openbox window manager. Made by NotteShock
+# Based on Nord-Openbox-theme. Inspired from macOS Big Sur design.
+# Originally designed for use with WhiteSur theme by vinceliuice.
+### WINDOW
+border.width: 1
+
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+
+padding.width: 7.5
+padding.height: 7
+
+
+window.active.border.color: #111111
+window.inactive.border.color: #111111
+window.active.title.separator.color: #373737
+window.inactive.title.separator.color: #373737
+window.active.client.color: #373737
+window.inactive.client.color: #373737
+
+window.active.label.text.color: #ffffff
+window.inactive.label.text.color: #ffffff
+
+# Iconify button
+window.active.button.iconify.unpressed.image.color: #f0ae1a
+window.active.button.iconify.hover.image.color: #f0ae1a
+window.active.button.iconify.pressed.image.color: #c28b16
+
+# Max button
+window.active.button.max.unpressed.image.color: #58c836
+window.active.button.max.hover.image.color: #58c836
+window.active.button.max.toggled.unpressed.image.color: #58c836
+window.active.button.max.toggled.hover.image.color: #58c836
+window.active.button.max.pressed.image.color: #47a02c
+
+# Desk button
+window.active.button.desk.unpressed.image.color: #7ed1c9
+window.active.button.desk.hover.image.color: #7ed1c9
+window.active.button.desk.pressed.image.color: #58b3aa
+
+# Shade button colors
+window.active.button.shade.unpressed.image.color: #ccb0d6
+window.active.button.shade.hover.image.color: #ccb0d6
+window.active.button.shade.pressed.image.color: #bea2c8
+
+# Close button colors
+window.active.button.close.unpressed.image.color:#e9524b
+window.active.button.close.hover.image.color:#e9524b
+window.active.button.close.pressed.image.color: #bb423a
+
+# Inactive button colors
+window.inactive.button.*.image.color: #5d5d5d
+
+# All buttons
+window.active.button.*.disabled.image.color: #5d5d5d
+window.active.button.*.pressed.image.color: #5d5d5d
+
+window.active.title.bg: raised
+window.active.title.bg.color: #373737
+window.active.label.bg: flat solid
+window.active.label.bg.color: #373737
+#window.active.handle.bg: texture
+#window.active.grip.bg: texture
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #373737
+window.inactive.label.bg: flat solid
+window.inactive.label.bg.color: #373737
+window.inactive.handle.bg: flat solid
+window.active.handle.bg.color: #454545
+#window.inactive.grip.bg: texture
+
+window.active.button.unpressed.bg: parentrelative
+window.active.button.pressed.bg: parentrelative
+window.active.button.hover.bg: parentrelative
+window.active.button.disabled.bg: parentrelative
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.pressed.bg: parentrelative
+window.active.button.toggled.hover.bg: parentrelative
+
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.hover.bg: parentrelative
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.toggled.hover.bg: parentrelative
+
+window.label.text.justify: center
+
+#window.active.label.text.font: text shadow
+#window.inactive.label.text.font: text shadow
+
+### MENU
+menu.border.width: 6
+menu.separator.width: 2
+menu.separator.padding.width: 10
+menu.separator.padding.height: 5
+
+menu.overlap.x: 0
+menu.overlap.y: 0
+
+menu.border.color: #373737
+menu.separator.color: #4a4a4a
+
+menu.title.text.color: #D3DAE3
+menu.items.text.color: #cdd3dd
+menu.items.disabled.text.color: #485265
+menu.items.active.text.color: #ffffff
+menu.items.active.disabled.text.color: #aeb0b6
+
+menu.items.bg: flat solid
+menu.items.bg.color: #373737
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #0760f2
+menu.title.bg: flat solid
+menu.title.bg.color: #373737
+
+menu.title.text.justify: center
+
+#menu.items.font: text shadow
+#menu.title.text.font: text shadow
+
+### OSD
+osd.border.width: 2
+
+osd.border.color: #373737
+
+osd.label.text.color: #ffffff
+
+osd.bg: flat solid
+osd.bg.color: #373737
+osd.label.bg: flat solid
+osd.label.bg.color: #373737
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #7b99b7
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #000000
+
+#osd.label.text.font: text shadow
