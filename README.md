@@ -4,8 +4,8 @@ A openbox theme with Nord color palette to combine with GTK+, Plasma and Kvantum
 
 ## Screenshots
 
-**Window and menu view**<br>
-![Windows (active and inactive) and menu ](./screenshots/windows_menu.png)
+**Dark theme**<br>
+![Thunar File Manager with OpenboxSur theme (dark variant) ](./screenshots/OpenboxSur-dark.png)
 
 <br>
 
